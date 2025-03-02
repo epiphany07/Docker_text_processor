@@ -1,0 +1,15 @@
+Word Count (IF-1.txt): 301
+Word Count (AlwaysRememberUsThisWay-1.txt): 242
+Grand Total Word Count: 543
+
+Top 3 Most Frequent Words in IF-1.txt:
+you: 20
+and: 20
+if: 14
+
+Top 3 Most Frequent Words in AlwaysRememberUsThisWay-1.txt (after handling contractions):
+i: 15
+the: 13
+and: 8
+
+Container's Machine IP Address: 192.168.56.1
